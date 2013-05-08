@@ -4,5 +4,7 @@
     <string name="app_name">final_project</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-	<string name="weather">Weather</string>
+	<string name="weather">Update Weather</string>
+	<string name="current">Current Weather Conditions</string>
+	<string name="degree">Degress</string>
 </resources>
